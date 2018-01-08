@@ -102,5 +102,4 @@ ENV/
 
 
 #idea
-.idea/*.xml
-.idea/*.*
+/.idea
