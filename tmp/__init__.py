@@ -1,4 +1,4 @@
-import request
+import requests
 
-r=reqest.get('https://www.baidu.com')
+r=requests.get('https://www.baidu.com')
 r.status_code
