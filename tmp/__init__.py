@@ -1,3 +1,4 @@
+
 import requests
 
 
@@ -9,7 +10,6 @@ def getHTMLText(url):
         return r.text
     except:
         return 'Get exception '
-
 if __name__ == '__main__':
     url = "http://www.baidu.com"
     url = "www.baidu.com"
